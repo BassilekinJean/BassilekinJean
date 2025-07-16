@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Network and System administration
 - 💞️ I’m looking to collaborate on many projects programmation or networking
 - 📫 How to reach me bassilekinjean@outlook.com
-- 😄 Pronouns: jean
-- ⚡ Fun fact: I'm a hardcore Otaku
+
 
 <!---
 BassilekinJean/BassilekinJean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
